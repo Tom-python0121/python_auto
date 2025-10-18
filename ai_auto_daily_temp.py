@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 #设置DeepSeek API Key
-DEEPSEEK_API_KEY = "sk-b7a6969c6b554a93ab89aff9f7765c23"
+DEEPSEEK_API_KEY = "YOUR_API_KEY_HERE"
 
 #DeepSeek API 调用函数
 def generate_report(prompt):
