@@ -121,7 +121,7 @@ python_auto/
 
 ## 📬 联系方式
 
-👨‍💻 **作者：Tony Wei（韦盼 / 盼哥）**
+👨‍💻 **作者：Tony Wei（盼哥）**
 📧 Email: [weipan15679363796@163.com](mailto:weipan15679363796@163.com)
 🌐 GitHub: [Tom-python0121](https://github.com/Tom-python0121)
 📱 微信公众号：**盼哥PyAI实验室**
